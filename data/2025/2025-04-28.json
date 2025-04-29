@@ -1,8 +1,54 @@
-{
-  "fecha": "2025-04-28",
-  "link": "https://example.com/gaceta-2025-04-28.pdf",
-  "resumen": "Resumen de la gaceta del 28 de abril de 2025.",
-  "tags": [
-    "Ley"
-  ]
-}
+[
+  {
+    "Nro": "43.104",
+    "fecha": "2025-04-08",
+    "link": "placeholder",
+    "contenido": [
+      "La Gaceta Oficial N° 43.104 del 8 de abril de 2025 corrige errores en providencias aduaneras, autoriza nuevas agencias de aduanas, hace nombramientos y delegaciones clave en Obras Públicas, Ecosocialismo y Ministerio Público, y reafirma el marco legal de publicación oficial para garantizar transparencia y seguridad jurídica.",
+      {
+        "disposiciones": [
+          {
+            "disposicion": "Corrección por error material de la Providencia Administrativa SNAT/2025/000024, de fecha 19 de marzo de 2025.",
+            "tags": ["Corrección administrativa", "SENIAT","Ministerio del Poder Popular de Economía y Finanzas"]
+          },
+          {
+            "disposicion": "Autorización a SERVICIOS ADUANEROS GUANTAMAR, C.A. como Agencia de Aduanas ante la Gerencia de Aduana Principal de Guanta–Puerto La Cruz.",
+            "tags": ["Autorizaciones y permisos", "SENIAT","Ministerio del Poder Popular de Economía y Finanzas"]
+          },
+          {
+            "disposicion": "Nombramiento de Wilfredo González Venero como Director Estadal del estado Apure en el Ministerio del Poder Popular de Obras Públicas.",
+            "tags": ["Nombramientos", "Ministerio del Poder Popular de Obras Públicas"]
+          },
+          {
+            "disposicion": "Delegación de funciones a José Antonio Hernández Díaz como Director General de Gestión de la Calidad Ambiental.",
+            "tags": ["Delegación de funciones", "Ministerio del Poder Popular para el Ecosocialismo"]
+          },
+          {
+            "disposicion": "Delegación de funciones a Edgar Octavio Gongalves Portillo como Director General de Aprovechamiento de la Basura.",
+            "tags": ["Delegación de funciones", "Ministerio del Poder Popular para el Ecosocialismo"]
+          },
+          {
+            "disposicion": "Delegación de funciones a Angélica José Cedeño de Rodríguez en materia de Contrataciones Públicas.",
+            "tags": ["Delegación de funciones", "Ministerio Público"]
+          },
+          {
+            "disposicion": "Reproducción de la Ley de Publicaciones Oficiales (Extraordinaria N° 6.688, 25 feb 2022).",
+            "tags": ["Legislación y normativa", "Legislativo"]
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "Corrección administrativa",
+      "Autorizaciones y permisos",
+      "Nombramientos",
+      "Delegación de funciones",
+      "Legislación y normativa",
+      "Ministerio del Poder Popular de Economía y Finanzas",
+      "SENIAT",
+      "Ministerio del Poder Popular de Obras Públicas",
+      "Ministerio del Poder Popular para el Ecosocialismo",
+      "Ministerio Público"
+    ]
+  }
+]
